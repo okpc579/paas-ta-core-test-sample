@@ -1,0 +1,8 @@
+---
+applications:
+- name: PaaS-TA-staticfile
+  random-route: false
+  buildpack: staticfile_buildpack
+  memory: 16M
+  disk_quota: 256M
+  path: web

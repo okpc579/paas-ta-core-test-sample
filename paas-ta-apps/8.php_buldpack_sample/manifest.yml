@@ -1,0 +1,8 @@
+---
+applications:
+- name: PaaS-TA-php
+  memory: 128M
+  buildpacks:
+  - php_buildpack
+  env:
+    SOME_VAR: Wheee

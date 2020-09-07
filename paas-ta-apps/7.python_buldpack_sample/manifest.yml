@@ -1,0 +1,7 @@
+---
+applications:
+- name: PaaS-TA-python
+  memory: 128M
+  buildpack: python_buildpack
+  instances: 1
+  random-route: false

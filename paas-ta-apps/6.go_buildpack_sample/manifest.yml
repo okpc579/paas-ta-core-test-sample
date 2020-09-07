@@ -1,0 +1,7 @@
+---
+applications:
+- name: PaaS-TA-go
+  memory: 64M
+  buildpack: go_buildpack
+  instances: 1
+  random-route: false

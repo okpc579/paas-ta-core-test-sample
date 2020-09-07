@@ -1,0 +1,7 @@
+---
+applications:
+- name: PaaS-TA-ruby
+  random-route: false
+  buildpack: ruby_buildpack
+  memory: 32M
+  disk_quota: 1G

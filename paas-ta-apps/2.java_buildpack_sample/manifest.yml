@@ -1,0 +1,8 @@
+---
+applications:
+- name: PaaS-TA-java
+  memory: 1G
+  instances: 1
+  path: target/hello-spring.war
+  env:
+    JBP_CONFIG_OPEN_JDK_JRE: '[version: 1.7.0_+, memory_heuristics: {heap: 85, stack: 10}]'

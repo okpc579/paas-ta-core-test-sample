@@ -1,0 +1,7 @@
+---
+applications:
+- name: PaaS-TA-nginx
+  memory: 1G
+  buildpack: nginx_buildpack
+  instances: 1
+  random-route: false

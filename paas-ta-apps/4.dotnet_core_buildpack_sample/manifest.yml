@@ -1,0 +1,7 @@
+---
+applications:
+  - name: PaaS-TA-dotnet-core
+    random-route: false
+    buildpack: dotnet_core_buildpack
+    env:
+      CACHE_NUGET_PACKAGES: false

@@ -1,0 +1,9 @@
+---
+applications:
+- name: PaaS-TA-egov-3.9
+  memory: 1G
+  instances: 1
+  path: egov-board-3.9.war 
+  env:
+    JBP_CONFIG_COMPONENTS: '[containers: Tomcat]'
+    #JBP_CONFIG_COMPONENTS: '[containers: Jboss]'

@@ -1,0 +1,8 @@
+---
+applications:
+- name: PaaS-TA-binary
+  memory: 30M
+  disk_quota: 16M
+  buildpack: binary_buildpack
+  instances: 1
+  path: binary
