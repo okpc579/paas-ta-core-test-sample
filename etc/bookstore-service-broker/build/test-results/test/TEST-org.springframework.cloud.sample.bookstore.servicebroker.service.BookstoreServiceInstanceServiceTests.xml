@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.cloud.sample.bookstore.servicebroker.service.BookstoreServiceInstanceServiceTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-08-11T00:24:15" hostname="ip-10-0-0-239" time="0.388">
+  <properties/>
+  <testcase name="getServiceInstanceWhenInstanceDoesNotExists()" classname="org.springframework.cloud.sample.bookstore.servicebroker.service.BookstoreServiceInstanceServiceTests" time="0.357"/>
+  <testcase name="deleteServiceInstanceWhenInstanceExists()" classname="org.springframework.cloud.sample.bookstore.servicebroker.service.BookstoreServiceInstanceServiceTests" time="0.011"/>
+  <testcase name="getServiceInstanceWhenInstanceExists()" classname="org.springframework.cloud.sample.bookstore.servicebroker.service.BookstoreServiceInstanceServiceTests" time="0.007"/>
+  <testcase name="createServiceInstanceWhenInstanceDoesNotExist()" classname="org.springframework.cloud.sample.bookstore.servicebroker.service.BookstoreServiceInstanceServiceTests" time="0.009"/>
+  <testcase name="deleteServiceInstanceWhenInstanceDoesNotExist()" classname="org.springframework.cloud.sample.bookstore.servicebroker.service.BookstoreServiceInstanceServiceTests" time="0.002"/>
+  <testcase name="createServiceInstanceWhenInstanceExists()" classname="org.springframework.cloud.sample.bookstore.servicebroker.service.BookstoreServiceInstanceServiceTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

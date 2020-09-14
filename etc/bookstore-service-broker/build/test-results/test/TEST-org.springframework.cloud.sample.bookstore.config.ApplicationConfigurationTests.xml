@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.cloud.sample.bookstore.config.ApplicationConfigurationTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-08-11T00:24:14" hostname="ip-10-0-0-239" time="0.031">
+  <properties/>
+  <testcase name="cloudFoundryApplicationInfo()" classname="org.springframework.cloud.sample.bookstore.config.ApplicationConfigurationTests" time="0.018"/>
+  <testcase name="kubernetesApplicationInfo()" classname="org.springframework.cloud.sample.bookstore.config.ApplicationConfigurationTests" time="0.005"/>
+  <testcase name="localApplicationInfo()" classname="org.springframework.cloud.sample.bookstore.config.ApplicationConfigurationTests" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

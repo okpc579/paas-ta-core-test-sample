@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.cloud.sample.bookstore.servicebroker.service.BookstoreServiceInstanceBindingServiceTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-08-11T00:24:15" hostname="ip-10-0-0-239" time="0.066">
+  <properties/>
+  <testcase name="createBindingWhenBindingExists()" classname="org.springframework.cloud.sample.bookstore.servicebroker.service.BookstoreServiceInstanceBindingServiceTests" time="0.05"/>
+  <testcase name="deleteBindingWhenBindingDoesNotExist()" classname="org.springframework.cloud.sample.bookstore.servicebroker.service.BookstoreServiceInstanceBindingServiceTests" time="0.002"/>
+  <testcase name="createBindingWhenBindingDoesNotExist()" classname="org.springframework.cloud.sample.bookstore.servicebroker.service.BookstoreServiceInstanceBindingServiceTests" time="0.005"/>
+  <testcase name="getBindingWhenBindingExists()" classname="org.springframework.cloud.sample.bookstore.servicebroker.service.BookstoreServiceInstanceBindingServiceTests" time="0.003"/>
+  <testcase name="deleteBindingWhenBindingExists()" classname="org.springframework.cloud.sample.bookstore.servicebroker.service.BookstoreServiceInstanceBindingServiceTests" time="0.002"/>
+  <testcase name="getBindingWhenBindingDoesNotExist()" classname="org.springframework.cloud.sample.bookstore.servicebroker.service.BookstoreServiceInstanceBindingServiceTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

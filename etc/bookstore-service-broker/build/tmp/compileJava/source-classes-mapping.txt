@@ -1,0 +1,67 @@
+org/springframework/cloud/sample/bookstore/web/repository/UserRepository.java
+ org.springframework.cloud.sample.bookstore.web.repository.UserRepository
+org/springframework/cloud/sample/bookstore/web/repository/WebRepositoryPackageMarker.java
+ org.springframework.cloud.sample.bookstore.web.repository.WebRepositoryPackageMarker
+org/springframework/cloud/sample/bookstore/servicebroker/model/ServiceInstance.java
+ org.springframework.cloud.sample.bookstore.servicebroker.model.ServiceInstance
+org/springframework/cloud/sample/bookstore/web/resource/BookStoreResource.java
+ org.springframework.cloud.sample.bookstore.web.resource.BookStoreResource
+org/springframework/cloud/sample/bookstore/web/service/UserService.java
+ org.springframework.cloud.sample.bookstore.web.service.UserService
+org/springframework/cloud/sample/bookstore/web/resource/BookResource.java
+ org.springframework.cloud.sample.bookstore.web.resource.BookResource
+org/springframework/cloud/sample/bookstore/web/model/Book.java
+ org.springframework.cloud.sample.bookstore.web.model.Book
+org/springframework/cloud/sample/bookstore/servicebroker/service/BookStoreServiceInstanceBindingService.java
+ org.springframework.cloud.sample.bookstore.servicebroker.service.BookStoreServiceInstanceBindingService
+org/springframework/cloud/sample/bookstore/servicebroker/repository/ServiceBrokerRepositoryPackageMarker.java
+ org.springframework.cloud.sample.bookstore.servicebroker.repository.ServiceBrokerRepositoryPackageMarker
+org/springframework/cloud/sample/bookstore/web/controller/BaseController.java
+ org.springframework.cloud.sample.bookstore.web.controller.BaseController
+org/springframework/cloud/sample/bookstore/servicebroker/model/ServiceBinding.java
+ org.springframework.cloud.sample.bookstore.servicebroker.model.ServiceBinding
+org/springframework/cloud/sample/bookstore/servicebroker/repository/ServiceBindingRepository.java
+ org.springframework.cloud.sample.bookstore.servicebroker.repository.ServiceBindingRepository
+org/springframework/cloud/sample/bookstore/web/config/MethodSecurityConfiguration.java
+ org.springframework.cloud.sample.bookstore.web.config.MethodSecurityConfiguration
+org/springframework/cloud/sample/bookstore/servicebroker/service/BookStoreServiceInstanceService.java
+ org.springframework.cloud.sample.bookstore.servicebroker.service.BookStoreServiceInstanceService
+org/springframework/cloud/sample/bookstore/web/security/BookStoreIdEvaluator.java
+ org.springframework.cloud.sample.bookstore.web.security.BookStoreIdEvaluator
+org/springframework/cloud/sample/bookstore/web/model/ApplicationInformation.java
+ org.springframework.cloud.sample.bookstore.web.model.ApplicationInformation
+org/springframework/cloud/sample/bookstore/web/model/User.java
+ org.springframework.cloud.sample.bookstore.web.model.User
+org/springframework/cloud/sample/bookstore/web/model/BookStore.java
+ org.springframework.cloud.sample.bookstore.web.model.BookStore
+org/springframework/cloud/sample/bookstore/web/repository/BookStoreRepository.java
+ org.springframework.cloud.sample.bookstore.web.repository.BookStoreRepository
+org/springframework/cloud/sample/bookstore/web/controller/BookStoreController.java
+ org.springframework.cloud.sample.bookstore.web.controller.BookStoreController
+org/springframework/cloud/sample/bookstore/web/service/BookStoreService.java
+ org.springframework.cloud.sample.bookstore.web.service.BookStoreService
+org/springframework/cloud/sample/bookstore/web/resource/BookResourceAssembler.java
+ org.springframework.cloud.sample.bookstore.web.resource.BookResourceAssembler
+org/springframework/cloud/sample/bookstore/servicebroker/config/ServiceCatalogConfiguration.java
+ org.springframework.cloud.sample.bookstore.servicebroker.config.ServiceCatalogConfiguration
+org/springframework/cloud/sample/bookstore/web/security/SecurityAuthorities.java
+ org.springframework.cloud.sample.bookstore.web.security.SecurityAuthorities
+org/springframework/cloud/sample/bookstore/web/resource/BookStoreResourceAssembler.java
+ org.springframework.cloud.sample.bookstore.web.resource.BookStoreResourceAssembler
+org/springframework/cloud/sample/bookstore/config/ApplicationRepositoryConfiguration.java
+ org.springframework.cloud.sample.bookstore.config.ApplicationRepositoryConfiguration
+org/springframework/cloud/sample/bookstore/ServiceBrokerApplication.java
+ org.springframework.cloud.sample.bookstore.ServiceBrokerApplication
+org/springframework/cloud/sample/bookstore/config/SecurityConfiguration.java
+ org.springframework.cloud.sample.bookstore.config.SecurityConfiguration
+org/springframework/cloud/sample/bookstore/web/security/RepositoryUserDetailsService.java
+ org.springframework.cloud.sample.bookstore.web.security.RepositoryUserDetailsService
+ org.springframework.cloud.sample.bookstore.web.security.RepositoryUserDetailsService$CustomUserDetails
+org/springframework/cloud/sample/bookstore/web/controller/BookController.java
+ org.springframework.cloud.sample.bookstore.web.controller.BookController
+org/springframework/cloud/sample/bookstore/config/ApplicationConfiguration.java
+ org.springframework.cloud.sample.bookstore.config.ApplicationConfiguration
+org/springframework/cloud/sample/bookstore/servicebroker/repository/ServiceInstanceRepository.java
+ org.springframework.cloud.sample.bookstore.servicebroker.repository.ServiceInstanceRepository
+org/springframework/cloud/sample/bookstore/web/security/UserApplicationListener.java
+ org.springframework.cloud.sample.bookstore.web.security.UserApplicationListener

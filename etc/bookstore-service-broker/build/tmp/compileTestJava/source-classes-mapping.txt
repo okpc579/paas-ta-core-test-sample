@@ -1,0 +1,18 @@
+org/springframework/cloud/sample/bookstore/servicebroker/integration/UserApplicationListenerIntegrationTests.java
+ org.springframework.cloud.sample.bookstore.servicebroker.integration.UserApplicationListenerIntegrationTests
+org/springframework/cloud/sample/bookstore/servicebroker/repository/ServiceInstanceRepositoryTests.java
+ org.springframework.cloud.sample.bookstore.servicebroker.repository.ServiceInstanceRepositoryTests
+org/springframework/cloud/sample/bookstore/web/integration/BookStoreIntegrationTests.java
+ org.springframework.cloud.sample.bookstore.web.integration.BookStoreIntegrationTests
+org/springframework/cloud/sample/bookstore/web/integration/BookStoreSecurityIntegrationTests.java
+ org.springframework.cloud.sample.bookstore.web.integration.BookStoreSecurityIntegrationTests
+org/springframework/cloud/sample/bookstore/servicebroker/service/BookstoreServiceInstanceServiceTests.java
+ org.springframework.cloud.sample.bookstore.servicebroker.service.BookstoreServiceInstanceServiceTests
+org/springframework/cloud/sample/bookstore/ApplicationTests.java
+ org.springframework.cloud.sample.bookstore.ApplicationTests
+org/springframework/cloud/sample/bookstore/config/ApplicationConfigurationTests.java
+ org.springframework.cloud.sample.bookstore.config.ApplicationConfigurationTests
+org/springframework/cloud/sample/bookstore/servicebroker/repository/ServiceBindingRepositoryTests.java
+ org.springframework.cloud.sample.bookstore.servicebroker.repository.ServiceBindingRepositoryTests
+org/springframework/cloud/sample/bookstore/servicebroker/service/BookstoreServiceInstanceBindingServiceTests.java
+ org.springframework.cloud.sample.bookstore.servicebroker.service.BookstoreServiceInstanceBindingServiceTests
