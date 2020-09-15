@@ -1,7 +1,7 @@
 [
   {
     "protocol": "tcp",
-    "destination": "XX.XX.XX.XXX",
-    "ports": "XXXX"
+    "destination": "10.0.31.203",
+    "ports": "3306"
   }
 ]
